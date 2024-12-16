@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "HospitalSystemConnection",
+            "database": "HospitalDataBase",
+            "username": "admin",
+            "password": "admin"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/muhammadmalik/Desktop/javafx-sdk-21.0.1/**/*.jar"
+    ]
+}

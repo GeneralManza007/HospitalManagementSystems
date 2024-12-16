@@ -1,0 +1,4 @@
+James; John; 18; Male; Headache; 14/01/2024; 10; 40; 
+Hamza; Malik; 18; Male; Headache; 14/01/2024; 12; 35; 
+Ella; Nelson; 15; Female; Ovary Pain; 15/01/2024; 11; 00; 
+Lucas; Winter; 16; Male; Nut Allergy; 12/02/2024; 10; 35; 

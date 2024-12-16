@@ -1,0 +1,4 @@
+Miranda; Baska; 35; Female; 35000; Baska12; Bask12
+Jessica; Harmes; 32; Female; 28000; Harmes16; Harmes16
+Tilly; James; 26; Female; 26000; James18; Jam18
+Hamza; Malik; 20; Male; 0; Hamza14; Ham14

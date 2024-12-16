@@ -1,0 +1,106 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Bookings",
+            "request": "launch",
+            "mainClass": "Bookings",
+            "projectName": "Hospital Managment System_95644353"
+        },
+        {
+            "type": "java",
+            "name": "Receptionist",
+            "request": "launch",
+            "mainClass": "Receptionist",
+            "projectName": "Hospital Managment System_95644353"
+        },
+        {
+            "type": "java",
+            "name": "HospitalManagementSystem",
+            "request": "launch",
+            "mainClass": "HospitalManagementSystem",
+            "vmArgs": "--module-path /Users/muhammadmalik/Desktop/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "Hospital Managment System_95644353"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Admin",
+            "request": "launch",
+            "mainClass": "Admin",
+            "projectName": "Hospital Managment System_3b2f8f17"
+        },
+        {
+            "type": "java",
+            "name": "Bookings",
+            "request": "launch",
+            "mainClass": "Bookings",
+            "projectName": "Hospital Managment System_3b2f8f17"
+        },
+        {
+            "type": "java",
+            "name": "Doctor",
+            "request": "launch",
+            "mainClass": "Doctor",
+            "projectName": "Hospital Managment System_3b2f8f17"
+        },
+        {
+            "type": "java",
+            "name": "Medical",
+            "request": "launch",
+            "mainClass": "Medical",
+            "projectName": "Hospital Managment System_3b2f8f17"
+        },
+        {
+            "type": "java",
+            "name": "OR",
+            "request": "launch",
+            "mainClass": "OR",
+            "projectName": "Hospital Managment System_3b2f8f17"
+        },
+        {
+            "type": "java",
+            "name": "Paitent",
+            "request": "launch",
+            "mainClass": "Paitent",
+            "projectName": "Hospital Managment System_3b2f8f17"
+        },
+        {
+            "type": "java",
+            "name": "Receptionist",
+            "request": "launch",
+            "mainClass": "Receptionist",
+            "projectName": "Hospital Managment System_3b2f8f17"
+        },
+        {
+            "type": "java",
+            "name": "Stock",
+            "request": "launch",
+            "mainClass": "Stock",
+            "projectName": "Hospital Managment System_3b2f8f17"
+        },
+        {
+            "type": "java",
+            "name": "TestingFuncs",
+            "request": "launch",
+            "mainClass": "TestingFuncs",
+            "projectName": "Hospital Managment System_3b2f8f17"
+        },
+        {
+            "type": "java",
+            "name": "ToDoList",
+            "request": "launch",
+            "mainClass": "ToDoList",
+            "projectName": "Hospital Managment System_3b2f8f17"
+        }
+    ]
+}
